@@ -1,0 +1,74 @@
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("1","0","1","0","0","1","1316777201","1314098900","3045","3045","0","0","45","3000","0","0","1314098801","118.253.4.77");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("2","0","1","0","0","2","1316941091","1314262797","3067.53","3067.53","0","0","22.53","3045","0","0","1314262691","58.46.193.18");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("3","0","1","0","0","4","1316941349","1314326176","2020","2020","0","0","20","2000","0","0","1314262949","58.46.193.18");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("4","0","1","0","0","3","1316950538","1314272400","901.32","901.32","0","0","13.32","888","0","0","1314272138","118.253.11.171");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("5","0","1","0","0","5","1317004144","1314596261","505","505","0","0","5","500","0","0","1314325744","58.46.179.32");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("6","0","1","0","0","6","1317004165","1314325823","9021.32","9021.32","0","0","133.32","8888","0","0","1314325765","58.46.179.32");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("7","0","1","0","0","7","1317343636","1314680943","3040","3040","0","0","40","3000","0","0","1314665236","113.219.225.103");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("8","0","1","0","0","9","1317343671","1314677263","5075","5075","0","0","75","5000","0","0","1314665271","113.219.225.103");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("9","0","1","0","0","8","1317343693","1314717526","5037","5037","0","0","37","5000","0","0","1314665293","113.219.225.103");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("10","0","0","0","0","14","1317343720","","1015.18","0","0","0","15.18","1000","0","0","1314665320","113.219.225.103");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("11","0","1","0","0","16","1317312000","1314826285","506.25","506.25","0","0","6.25","500","0","0","1314753325","58.46.178.119");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("12","0","1","0","0","20","1317312000","1314928143","1018.33","1018.33","0","0","18.33","1000","0","0","1314789581","113.219.34.69");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("13","0","1","0","0","10","1317312000","1314798830","50750","50750","0","0","750","50000","0","0","1314789682","113.219.34.69");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("14","0","1","0","0","17","1317441364","1314872503","2916.88","2916.88","0","0","28.88","2888","0","0","1314849364","58.46.183.83");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("15","0","1","0","0","28","1318033757","1315442653","8976.88","8976.88","0","0","88.88","8888","0","0","1315441757","113.218.152.110");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("16","0","1","0","0","26","1318033770","1315616967","503.33","503.33","0","0","3.33","500","0","0","1315441770","113.218.152.110");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("17","0","1","0","0","23","1318033818","1315612286","5050","5050","0","0","50","5000","0","0","1315441818","113.218.152.110");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("18","0","1","0","0","21","1318033851","1315611660","5050","5050","0","0","50","5000","0","0","1315441851","113.218.152.110");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("19","0","1","0","0","25","1318203154","1315614389","4924.17","4924.17","0","0","36.17","4888","0","0","1315611154","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("20","0","0","0","0","15","1318203209","","1775.23","0","0","0","183.33","1591.9","0","0","1315611209","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("21","0","0","0","1","15","1320881609","","1775.23","0","0","0","154.15","1621.08","0","0","1315611209","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("22","0","0","0","2","15","1323473609","","1775.23","0","0","0","124.43","1650.8","0","0","1315611209","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("23","0","0","0","3","15","1326152009","","1775.23","0","0","0","94.16","1681.07","0","0","1315611209","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("24","0","0","0","4","15","1328830409","","1775.23","0","0","0","63.34","1711.89","0","0","1315611209","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("25","0","0","0","5","15","1331336009","","1775.23","0","0","0","31.96","1743.27","0","0","1315611209","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("26","0","1","0","0","27","1318206183","1315651535","5037.04","5037.04","0","0","37.04","5000","0","0","1315614183","113.218.120.128");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("27","0","1","0","0","37","1318219021","1315627325","1020.07","1020.07","0","0","30","990.07","0","0","1315627021","113.218.36.55");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("28","0","1","0","1","37","1320897421","1315627345","1020.07","1020.07","0","0","20.1","999.97","0","0","1315627021","113.218.36.55");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("29","0","1","0","2","37","1323489421","1315703618","1020.07","1020.07","0","0","10.1","1009.97","0","0","1315627021","113.218.36.55");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("30","0","1","0","0","32","1318221496","1315657365","90757.61","90757.61","0","0","1869.61","88888","0","0","1315629496","113.218.36.55");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("31","0","0","0","0","34","1318243473","","91575","0","0","0","1575","90000","0","0","1315651473","113.218.125.86");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("32","0","0","0","0","44","1321493106","","890.72","0","0","0","96.83","793.89","0","0","1318814706","117.93.22.200");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("33","0","0","0","1","44","1324085106","","890.72","0","0","0","81.46","809.26","0","0","1318814706","117.93.22.200");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("34","0","0","0","2","44","1326763506","","890.72","0","0","0","65.79","824.93","0","0","1318814706","117.93.22.200");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("35","0","0","0","3","44","1329441906","","890.72","0","0","0","49.81","840.91","0","0","1318814706","117.93.22.200");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("36","0","0","0","4","44","1331947506","","890.72","0","0","0","33.52","857.2","0","0","1318814706","117.93.22.200");
+
+insert into `dw_borrow_repayment` ( `id`,`site_id`,`status`,`webstatus`,`order`,`borrow_id`,`repayment_time`,`repayment_yestime`,`repayment_account`,`repayment_yesaccount`,`late_days`,`late_interest`,`interest`,`capital`,`forfeit`,`reminder_fee`,`addtime`,`addip`) values ("37","0","0","0","5","44","1334625906","","890.72","0","0","0","16.92","873.8","0","0","1318814706","117.93.22.200");
+

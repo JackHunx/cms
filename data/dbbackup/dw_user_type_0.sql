@@ -1,0 +1,10 @@
+insert into `dw_user_type` ( `type_id`,`name`,`purview`,`order`,`status`,`type`,`summary`,`remark`,`addtime`,`addip`) values ("1","超级管理员","other_all","10","1","1","超级管理员","超级管理员,此类型不能删除","1281739540","127.0.0.1");
+
+insert into `dw_user_type` ( `type_id`,`name`,`purview`,`order`,`status`,`type`,`summary`,`remark`,`addtime`,`addip`) values ("2","普通用户","","10","1","2","","","1282288492","127.0.0.1");
+
+insert into `dw_user_type` ( `type_id`,`name`,`purview`,`order`,`status`,`type`,`summary`,`remark`,`addtime`,`addip`) values ("3","客服","site_all,module_all,system_all,bbs_all,system_clearcache,user_list,user_view,article_list,attestation_list,attestation_new,attestation_edit,attestation_del,attestation_view,attestation_type_list,attestation_type_new,attestation_type_edit,attestation_type_del,attestation_realname,attestation_all,attestation_vip,attestation_vipview,attestation_viewall,attestation_audit,attestation_view_all,userinfo_list,userinfo_view,borrow_list,borrow_view,credit_list,credit_log,limitapp_list,limitapp_view,invest_list,invest_view,liuyan_list,liuyan_reply,comment_list,comment_new","10","1","1","客服","客服","1287456109","61.51.205.98");
+
+insert into `dw_user_type` ( `type_id`,`name`,`purview`,`order`,`status`,`type`,`summary`,`remark`,`addtime`,`addip`) values ("7","兼职客服","system_all","10","1","1","","","1290228395","121.207.172.249");
+
+insert into `dw_user_type` ( `type_id`,`name`,`purview`,`order`,`status`,`type`,`summary`,`remark`,`addtime`,`addip`) values ("9","信贷审核","site_all,module_all,system_all,bbs_all,system_clearcache,user_list,user_view,attestation_list,attestation_new,attestation_edit,attestation_del,attestation_view,attestation_type_list,attestation_type_new,attestation_type_edit,attestation_type_del,attestation_realname,attestation_all,attestation_vip,attestation_vipview,attestation_viewall,attestation_audit,attestation_view_all,userinfo_list,userinfo_view,borrow_list,borrow_view,invest_list,invest_view","10","1","1","信贷审核","信贷审核","1303314633","58.46.176.13");
+

@@ -1,0 +1,12 @@
+insert into `dw_bbs_forums` ( `id`,`pid`,`name`,`content`,`rules`,`picurl`,`admins`,`today_num`,`topics_num`,`posts_num`,`last_postname`,`last_postuser`,`last_postusername`,`last_posttime`,`last_postid`,`isverify`,`forumpass`,`forumusers`,`forumgroups`,`showtype`,`ishidden`,`order`,`keywords`) values ("1","0","论坛精华","","","","","0","0","0","","","","0","0","","","","","1","0","0","");
+
+insert into `dw_bbs_forums` ( `id`,`pid`,`name`,`content`,`rules`,`picurl`,`admins`,`today_num`,`topics_num`,`posts_num`,`last_postname`,`last_postuser`,`last_postusername`,`last_posttime`,`last_postid`,`isverify`,`forumpass`,`forumusers`,`forumgroups`,`showtype`,`ishidden`,`order`,`keywords`) values ("2","1","论坛精华文章","","","","|htxd","0","2","1","RE:2011年度8月份充值奖励","27","卡卡西529861","1316249736","7","0","","","0","1","0","1","");
+
+insert into `dw_bbs_forums` ( `id`,`pid`,`name`,`content`,`rules`,`picurl`,`admins`,`today_num`,`topics_num`,`posts_num`,`last_postname`,`last_postuser`,`last_postusername`,`last_posttime`,`last_postid`,`isverify`,`forumpass`,`forumusers`,`forumgroups`,`showtype`,`ishidden`,`order`,`keywords`) values ("3","0","借款交流区","","","","","0","0","0","","","","0","0","","","","","0","0","0","");
+
+insert into `dw_bbs_forums` ( `id`,`pid`,`name`,`content`,`rules`,`picurl`,`admins`,`today_num`,`topics_num`,`posts_num`,`last_postname`,`last_postuser`,`last_postusername`,`last_posttime`,`last_postid`,`isverify`,`forumpass`,`forumusers`,`forumgroups`,`showtype`,`ishidden`,`order`,`keywords`) values ("4","3","借款人约标交流区","","","","","0","1","0","http://url.cn/2VIboO投资者赚取年利率20%-24%和1%--4%奖励","19","yangyunchai","1315775988","5","0","","","0","0","0","0","");
+
+insert into `dw_bbs_forums` ( `id`,`pid`,`name`,`content`,`rules`,`picurl`,`admins`,`today_num`,`topics_num`,`posts_num`,`last_postname`,`last_postuser`,`last_postusername`,`last_posttime`,`last_postid`,`isverify`,`forumpass`,`forumusers`,`forumgroups`,`showtype`,`ishidden`,`order`,`keywords`) values ("5","0","会员邀请推广跟帖区","","","","","0","0","0","","","","0","0","","","","","0","0","0","");
+
+insert into `dw_bbs_forums` ( `id`,`pid`,`name`,`content`,`rules`,`picurl`,`admins`,`today_num`,`topics_num`,`posts_num`,`last_postname`,`last_postuser`,`last_postusername`,`last_posttime`,`last_postid`,`isverify`,`forumpass`,`forumusers`,`forumgroups`,`showtype`,`ishidden`,`order`,`keywords`) values ("6","5","会员邀请注册跟帖","","","","","0","1","1","RE:怎么没有充值的啊","27","卡卡西529861","1315977909","6","0","","","","0","0","0","");
+
